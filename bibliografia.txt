@@ -1,3 +1,4 @@
-Checon, S and Straub,B.Pro git, Apress 
-Loeliger,J. and McCulthoug M. versión control with git. O really 
+Ryan Hodson. R y ‘s Git Tutorial . Smarshwords(2014)
+ Scott  Chacon, S. and Straub, B. Pro Git. Apress 
+
 
