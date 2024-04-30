@@ -1,4 +1,8 @@
-Ryan Hodson. R y ‘s Git Tutorial . Smarshwords(2014)
+Ryan Hodson. R y ‘s Git Tutorial . Smarshwords(2014)
  Scott  Chacon, S. and Straub, B. Pro Git. Apress 
+Loeliger , j. and  M. versión control with git O really  
+
+
+
 
 
